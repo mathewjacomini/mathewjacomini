@@ -1,6 +1,5 @@
 - Olá eu sou o mathew jacomini 
 - Desenvolvedor Full Stack 
-- Não curto muito css mais domino bastante ele 
 - Contato: mathewbussines26@gmail.com
 
 

@@ -1,4 +1,4 @@
-## Eae tudo certo? Sou o mathew Jacomini programador full stack e criador de conteudo de programação e tecnologia  !
+## Hi!!! all very well? my name is mathew welcome to my github !
 <div align="center">
   <a href="https://github.com/mathewjacomini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathewjacomini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
